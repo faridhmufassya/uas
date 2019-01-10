@@ -1,0 +1,78 @@
+body{
+	margin-left: 0px;
+}
+
+p{
+	font-size: 25px;
+}
+
+.nav{
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+
+.navbar{
+	background-color: transparent;
+	border: none;
+	background: none;
+	box-shadow: none;
+}
+
+#background{
+	background: url('../img/ab.jpg');
+	background-size: cover;
+	height: 620px;
+	margin-top: -90px;
+}
+
+#background .jumbotron{
+	text-align: center;
+	padding-top: 380px;
+	background: none;
+	max-width: 1349px;
+	color: white;
+}
+
+#background h1{
+	font-size: 50px;
+}
+
+#background p{
+	margin-left: 370px;
+	max-width: 580px;
+}
+
+#about .container .caption{
+	color: black;
+}
+
+#about .container .col-lg-8{
+	padding-top: 30px;
+}
+
+#about .container .thumbnail{
+	border: 1px solid black;
+}
+
+
+#about .container .col-lg-4{
+	padding-top: 30px;
+}
+
+#about .col-lg-4 img{
+	margin-top: 20px;
+	border: 6px solid black;
+}
+
+#about .col-lg-4 .caption{
+	padding-top: 20px;
+}
+
+#about .col-lg-8 .caption{
+	margin-bottom: 15px;
+}
+
+#about .col-lg-4 .caption .fas{
+	float: right;
+	font-size: 28px;
+}

@@ -1,0 +1,138 @@
+body{
+	margin-left: 0px;
+}
+
+p{
+	font-size: 25px;
+}
+
+.nav{
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+
+.navbar{
+	background-color: transparent;
+	border: none;
+	background: none;
+	box-shadow: none;
+}
+
+#background{
+	background: url('../img/tes2.jpg')no-repeat;
+	background-size: cover;
+	height: 590px;
+	max-height: 1112px;
+}
+
+#background .jumbotron{
+	padding-top: 200px;
+	background: none;
+	margin-left: 180px;
+	max-width: 1000px;
+	color: white;
+}
+
+
+#taste{
+	padding-top: 50px;
+	background: black;
+	padding-bottom: 30px;
+	margin-bottom: -30px;
+}
+
+.container.atas h1{
+	color: white;
+}
+
+.container.atas .col-lg-2{
+	padding-top: 50px;
+	color: white;
+	text-align: center;
+	margin-right: 95px;
+	margin-bottom: 50px;
+	padding-left: 50px;
+}
+
+.your-taste{
+	padding-top: 10px;
+}
+
+#bawah{
+	margin-top: 30px;
+	padding-top: 40px;
+	padding-left: 10px;
+	padding-bottom: 40px;
+}
+
+.row .col-lg-3 .thumbnail{
+	background-color: black;
+}
+
+.thumbnail .caption{
+	color: white;
+}
+
+.container.bawah h1{
+	padding-bottom: 30px;
+	font-weight: bold;
+	color: black;
+}
+
+.container.bawah h3{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.container.bawah p{
+	text-align: center;
+	font-size: 20px;
+}
+
+.container.bawah .btn{
+	font-weight: bold;
+}
+
+#about{
+	background-color: black;
+}
+
+#about .container{
+  width: 100%;
+  padding: 55px;
+  color: white;
+}
+
+
+
+#icon a.fab.fa-facebook-square{
+  color: white;
+  margin-left:15px;
+  margin-top: 10px;
+}
+
+#icon a.fab.fa-twitter-square{
+	color: white;
+  margin-left:15px;
+  margin-top: 10px;
+}
+
+#icon a.fab.fa-youtube-square{
+	color: white;
+  margin-left:15px;
+  margin-top: 10px;
+}
+
+#icon a.fab.fa-tumblr-square{
+	color: white;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+footer{
+	padding: 14px;
+	font-weight: bold;
+	background: grey;
+	color: white;
+}
