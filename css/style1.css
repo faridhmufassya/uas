@@ -76,3 +76,24 @@ p{
 	float: right;
 	font-size: 28px;
 }
+
+.navbar{
+	margin-bottom: -180px;
+	background: none;
+}
+
+.navbar .nav li > a{
+	color: white;
+}
+
+.navbar .nav li > a:hover{
+	color: #a6a6a6;
+}
+
+.navbar .navbar-brand p{
+	color: white;
+}
+
+.navbar .navbar-brand p:hover{
+	color: #a6a6a6;
+}

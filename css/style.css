@@ -133,6 +133,27 @@ p{
 footer{
 	padding: 14px;
 	font-weight: bold;
-	background: grey;
+	background: #a6a6a6;
+	color: black;
+}
+
+.navbar{
+	margin-bottom: -80px;
+	background: none;
+}
+
+.navbar .nav li > a{
 	color: white;
+}
+
+.navbar .nav li > a:hover{
+	color: #a6a6a6;
+}
+
+.navbar .navbar-brand p{
+	color: white;
+}
+
+.navbar .navbar-brand p:hover{
+	color: #a6a6a6;
 }
